@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\bin\Debug\Toepassing 12 - Verwachte lengte.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\bin\Debug\Toepassing 12 - Verwachte lengte.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\bin\Debug\Toepassing 12 - Verwachte lengte.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\obj\Debug\Toepassing 12 - Verwachte lengte.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\obj\Debug\Toepassing 12 - Verwachte lengte_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\obj\Debug\Toepassing 12 - Verwachte lengte_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\obj\Debug\Toepassing 12 - Verwachte lengte.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\obj\Debug\Toepassing_12___Verwachte_lengte.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\obj\Debug\Toepassing 12 - Verwachte lengte.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\obj\Debug\Toepassing 12 - Verwachte lengte.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\obj\Debug\Toepassing 12 - Verwachte lengte.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 12 - Verwachte lengte\Toepassing 12 - Verwachte lengte\obj\Debug\Toepassing 12 - Verwachte lengte.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herhalingsoefening Kaart Delen", "Herhalingsoefening Kaart Delen\Herhalingsoefening Kaart Delen.csproj", "{41ADB73C-6923-4A1F-AF3C-433BD407FBA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41ADB73C-6923-4A1F-AF3C-433BD407FBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41ADB73C-6923-4A1F-AF3C-433BD407FBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41ADB73C-6923-4A1F-AF3C-433BD407FBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41ADB73C-6923-4A1F-AF3C-433BD407FBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88F064C1-E61D-4738-ACAA-A0C47D1E7FA4}
+	EndGlobalSection
+EndGlobal

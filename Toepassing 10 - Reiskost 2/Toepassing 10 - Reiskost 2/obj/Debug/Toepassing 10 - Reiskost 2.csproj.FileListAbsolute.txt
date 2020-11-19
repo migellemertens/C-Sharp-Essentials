@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\bin\Debug\Toepassing 10 - Reiskost 2.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\bin\Debug\Toepassing 10 - Reiskost 2.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\bin\Debug\Toepassing 10 - Reiskost 2.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\obj\Debug\Toepassing 10 - Reiskost 2.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\obj\Debug\Toepassing 10 - Reiskost 2_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\obj\Debug\Toepassing 10 - Reiskost 2_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\obj\Debug\Toepassing 10 - Reiskost 2.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\obj\Debug\Toepassing_10___Reiskost_2.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\obj\Debug\Toepassing 10 - Reiskost 2.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\obj\Debug\Toepassing 10 - Reiskost 2.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\obj\Debug\Toepassing 10 - Reiskost 2.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 10 - Reiskost 2\Toepassing 10 - Reiskost 2\obj\Debug\Toepassing 10 - Reiskost 2.pdb

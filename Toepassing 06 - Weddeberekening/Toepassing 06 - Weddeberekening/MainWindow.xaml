@@ -1,0 +1,22 @@
+﻿<Window x:Class="Toepassing_06___Weddeberekening.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toepassing_06___Weddeberekening"
+        mc:Ignorable="d"
+        Title="Weddeberekening" Name="frmWeddeberekening" Height="450" Width="567.686">
+    <Grid>
+        <Label Content="Personeelslid" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="66,99,0,0"/>
+        <Label Content="Uurloon" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="92,148,0,0"/>
+        <Label Content="Aantal uren" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="74,197,0,0"/>
+        <TextBox Name="TxtPersoneelslid" HorizontalAlignment="Left" Height="23" Margin="193,103,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="TxtUurloon" HorizontalAlignment="Left" Height="23" Margin="193,152,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="TxtUren" HorizontalAlignment="Left" Height="23" Margin="193,201,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Name="BtnBerekenen" Content="_Berekenen" HorizontalAlignment="Left" Margin="382,106,0,0" VerticalAlignment="Top" Width="99" Click="BtnBerekenen_Click" IsDefault="True"/>
+        <Button Name="BtnWissen" Content="_Wissen" HorizontalAlignment="Left" Margin="382,152,0,0" VerticalAlignment="Top" Width="99" Click="BtnWissen_Click" KeyDown="BtnWissen_KeyDown"/>
+        <Button Name="BtnAfsluiten" Content="_Afsluiten" HorizontalAlignment="Left" Margin="382,204,0,0" VerticalAlignment="Top" Width="99" Click="BtnAfsluiten_Click"/>
+        <TextBox Name="TxtBxResultaat" HorizontalAlignment="Left" Height="135" Margin="74,256,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="407" Background="#FFECECEC"/>
+
+    </Grid>
+</Window>

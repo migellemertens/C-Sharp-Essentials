@@ -1,0 +1,20 @@
+﻿<Window x:Class="Toepassing_11___Raadspel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toepassing_11___Raadspel"
+        mc:Ignorable="d"
+        Title="Raadspel" Height="270" Width="500" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="Geef een getal tussen 1 en 100:" HorizontalAlignment="Left" Margin="45,68,0,0" VerticalAlignment="Top"/>
+        <Label Name="LblActie" Content="" HorizontalAlignment="Left" Margin="45,121,0,0" VerticalAlignment="Top" Width="250" BorderBrush="Black" BorderThickness="1"/>
+        <Label Name="LblAantalBeurten" Content="" HorizontalAlignment="Left" Margin="45,176,0,0" VerticalAlignment="Top" Width="250" BorderBrush="Black" BorderThickness="1"/>
+        <TextBox Name="TxtGok" HorizontalAlignment="Left" Height="23" Margin="226,72,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="69"/>
+        <Button Name="BtnEvalueer" Content="Evalueer" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="360,54,0,0" Height="40" FontSize="16" Click="BtnEvalueer_Click" IsDefault="True"/>
+        <Button Name="BtnNieuw" Content="Nieuw" HorizontalAlignment="Left" Margin="360,109,0,0" VerticalAlignment="Top" Width="100" Height="40" FontSize="16" Click="BtnNieuw_Click"/>
+        <Button Name="BtnEinde" Content="Einde" HorizontalAlignment="Left" Margin="360,164,0,0" VerticalAlignment="Top" Width="100" Height="40" FontSize="16" Click="BtnEinde_Click"/>
+        <Label Name="LblTime" Content="" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="198,10,0,0" VerticalAlignment="Top" Width="260" Background="#00000000" FontWeight="Bold" FontStyle="Italic" Foreground="#FF4B5FA2"/>
+
+    </Grid>
+</Window>

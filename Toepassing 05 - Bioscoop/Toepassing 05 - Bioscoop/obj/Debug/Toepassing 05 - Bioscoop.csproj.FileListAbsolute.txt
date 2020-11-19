@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\bin\Debug\Toepassing 05 - Bioscoop.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\bin\Debug\Toepassing 05 - Bioscoop.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\bin\Debug\Toepassing 05 - Bioscoop.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\obj\Debug\Toepassing 05 - Bioscoop.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\obj\Debug\Toepassing 05 - Bioscoop_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\obj\Debug\Toepassing 05 - Bioscoop_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\obj\Debug\Toepassing 05 - Bioscoop.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\obj\Debug\Toepassing_05___Bioscoop.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\obj\Debug\Toepassing 05 - Bioscoop.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\obj\Debug\Toepassing 05 - Bioscoop.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\obj\Debug\Toepassing 05 - Bioscoop.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 05 - Bioscoop\Toepassing 05 - Bioscoop\obj\Debug\Toepassing 05 - Bioscoop.pdb

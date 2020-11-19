@@ -1,0 +1,19 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\bin\Debug\netcoreapp3.1\Les - Figuren Tekenen.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\bin\Debug\netcoreapp3.1\Les - Figuren Tekenen.deps.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\bin\Debug\netcoreapp3.1\Les - Figuren Tekenen.runtimeconfig.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\bin\Debug\netcoreapp3.1\Les - Figuren Tekenen.runtimeconfig.dev.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\bin\Debug\netcoreapp3.1\Les - Figuren Tekenen.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\bin\Debug\netcoreapp3.1\Les - Figuren Tekenen.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\Les - Figuren Tekenen.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\Les - Figuren Tekenen_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\Les - Figuren Tekenen_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\Les - Figuren Tekenen.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\Les - Figuren Tekenen.AssemblyInfoInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\Les - Figuren Tekenen.AssemblyInfo.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\Les - Figuren Tekenen.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\Les - Figuren Tekenen.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\Les - Figuren Tekenen.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Figuren Tekenen\Les - Figuren Tekenen\obj\Debug\netcoreapp3.1\Les - Figuren Tekenen.genruntimeconfig.cache

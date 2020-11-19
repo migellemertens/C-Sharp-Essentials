@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\bin\Debug\Toepassing 2.exe.config
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\bin\Debug\Toepassing 2.exe
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\bin\Debug\Toepassing 2.pdb
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\obj\Debug\Toepassing 2.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\obj\Debug\Toepassing 2_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\obj\Debug\Toepassing 2_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\obj\Debug\Toepassing 2.g.resources
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\obj\Debug\Toepassing_2.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\obj\Debug\Toepassing 2.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\obj\Debug\Toepassing 2.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\obj\Debug\Toepassing 2.exe
+C:\Users\migelle\Documents\Development\C#\Toepassing 2\Toepassing 2\obj\Debug\Toepassing 2.pdb

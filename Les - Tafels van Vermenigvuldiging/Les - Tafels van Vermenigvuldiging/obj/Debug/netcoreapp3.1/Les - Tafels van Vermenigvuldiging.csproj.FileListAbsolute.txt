@@ -1,0 +1,19 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\bin\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\bin\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.deps.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\bin\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.runtimeconfig.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\bin\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.runtimeconfig.dev.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\bin\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\bin\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.AssemblyInfoInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.AssemblyInfo.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Tafels van Vermenigvuldiging\Les - Tafels van Vermenigvuldiging\obj\Debug\netcoreapp3.1\Les - Tafels van Vermenigvuldiging.genruntimeconfig.cache

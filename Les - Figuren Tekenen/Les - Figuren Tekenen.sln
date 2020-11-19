@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les - Figuren Tekenen", "Les - Figuren Tekenen\Les - Figuren Tekenen.csproj", "{756F551A-A7C4-42B2-BC56-458267F88485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756F551A-A7C4-42B2-BC56-458267F88485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756F551A-A7C4-42B2-BC56-458267F88485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756F551A-A7C4-42B2-BC56-458267F88485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756F551A-A7C4-42B2-BC56-458267F88485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B86E0292-41EE-4AE2-889E-77009CA0392F}
+	EndGlobalSection
+EndGlobal

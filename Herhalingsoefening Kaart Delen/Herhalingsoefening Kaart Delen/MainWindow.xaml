@@ -1,0 +1,15 @@
+﻿<Window x:Class="Herhalingsoefening_Kaart_Delen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Herhalingsoefening_Kaart_Delen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Name="BtnTrekKaart" Content="Trek Kaart" HorizontalAlignment="Left" Margin="99,234,0,0" VerticalAlignment="Top" Width="135" Click="BtnTrekKaart_Click" Height="55" FontSize="22"/>
+        <Label Name="LblKaart" Content="" HorizontalAlignment="Left" Margin="99,84,0,0" VerticalAlignment="Top" Width="339" FontSize="20" Height="83"/>
+        <Canvas Name="CanCard" HorizontalAlignment="Left" Height="270" Margin="506,90,0,0" VerticalAlignment="Top" Width="215"/>
+
+    </Grid>
+</Window>

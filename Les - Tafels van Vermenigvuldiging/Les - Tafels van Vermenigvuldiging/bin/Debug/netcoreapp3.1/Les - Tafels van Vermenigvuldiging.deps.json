@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Les - Tafels van Vermenigvuldiging/1.0.0": {
+        "runtime": {
+          "Les - Tafels van Vermenigvuldiging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Les - Tafels van Vermenigvuldiging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

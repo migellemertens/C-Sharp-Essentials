@@ -1,0 +1,19 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\bin\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\bin\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.deps.json
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\bin\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.runtimeconfig.json
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\bin\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.runtimeconfig.dev.json
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\bin\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\bin\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.AssemblyInfoInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.AssemblyInfo.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 21 - Plus Maal Tabel\Toepassing 21 - Plus Maal Tabel\obj\Debug\netcoreapp3.1\Toepassing 21 - Plus Maal Tabel.genruntimeconfig.cache

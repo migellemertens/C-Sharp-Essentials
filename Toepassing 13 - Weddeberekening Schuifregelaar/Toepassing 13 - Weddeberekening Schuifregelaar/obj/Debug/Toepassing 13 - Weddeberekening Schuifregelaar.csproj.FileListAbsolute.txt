@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\bin\Debug\Toepassing 13 - Weddeberekening Schuifregelaar.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\bin\Debug\Toepassing 13 - Weddeberekening Schuifregelaar.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\bin\Debug\Toepassing 13 - Weddeberekening Schuifregelaar.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\obj\Debug\Toepassing 13 - Weddeberekening Schuifregelaar.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\obj\Debug\Toepassing 13 - Weddeberekening Schuifregelaar_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\obj\Debug\Toepassing 13 - Weddeberekening Schuifregelaar_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\obj\Debug\Toepassing 13 - Weddeberekening Schuifregelaar.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\obj\Debug\Toepassing_13___Weddeberekening_Schuifregelaar.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\obj\Debug\Toepassing 13 - Weddeberekening Schuifregelaar.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\obj\Debug\Toepassing 13 - Weddeberekening Schuifregelaar.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\obj\Debug\Toepassing 13 - Weddeberekening Schuifregelaar.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 13 - Weddeberekening Schuifregelaar\Toepassing 13 - Weddeberekening Schuifregelaar\obj\Debug\Toepassing 13 - Weddeberekening Schuifregelaar.pdb

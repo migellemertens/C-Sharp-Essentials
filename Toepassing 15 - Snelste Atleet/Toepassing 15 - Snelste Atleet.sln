@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toepassing 15 - Snelste Atleet", "Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet.csproj", "{F2DA415A-1412-4AA2-A293-ED52113068A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2DA415A-1412-4AA2-A293-ED52113068A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DA415A-1412-4AA2-A293-ED52113068A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DA415A-1412-4AA2-A293-ED52113068A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DA415A-1412-4AA2-A293-ED52113068A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {450FE228-4C48-446C-ABCC-259E54AAACAC}
+	EndGlobalSection
+EndGlobal

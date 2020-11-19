@@ -1,0 +1,30 @@
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\bin\Debug\Toepassing 06 - Weddeberekening.exe.config
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\bin\Debug\Toepassing 06 - Weddeberekening.exe
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\bin\Debug\Toepassing 06 - Weddeberekening.pdb
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening.csprojAssemblyReference.cache
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\App.g.cs
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening_MarkupCompile.cache
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening_MarkupCompile.lref
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\MainWindow.baml
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening.g.resources
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing_06___Weddeberekening.Properties.Resources.resources
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening.csproj.GenerateResource.cache
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening.csproj.CoreCompileInputs.cache
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening.exe
+C:\Users\migelle\source\repos\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\bin\Debug\Toepassing 06 - Weddeberekening.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\bin\Debug\Toepassing 06 - Weddeberekening.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\bin\Debug\Toepassing 06 - Weddeberekening.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing_06___Weddeberekening.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 06 - Weddeberekening\Toepassing 06 - Weddeberekening\obj\Debug\Toepassing 06 - Weddeberekening.pdb

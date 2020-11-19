@@ -1,0 +1,29 @@
+﻿<Window x:Class="Toepassing_04___Kassa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toepassing_04___Kassa"
+        mc:Ignorable="d"
+        Title="Kassa" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="13*"/>
+            <ColumnDefinition Width="251*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Ondernemingsnummer" HorizontalAlignment="Left" Margin="37,94,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label Content="Prijs" HorizontalAlignment="Left" Margin="37,138,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label Content="Aantal" HorizontalAlignment="Left" Margin="37,178,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label Content="Te betalen" HorizontalAlignment="Left" Margin="37,222,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <TextBox Name="TxtOndernemingsnummer" HorizontalAlignment="Left" Height="23" Margin="175,98,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+        <TextBox Name="TxtControlenummer" HorizontalAlignment="Left" Height="23" Margin="319,98,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="41" Grid.Column="1"/>
+        <TextBox Name="TxtPrijs" HorizontalAlignment="Left" Height="23" Margin="175,142,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185" Grid.Column="1"/>
+        <TextBox Name="TxtAantal" HorizontalAlignment="Left" Height="23" Margin="175,182,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185" Grid.Column="1"/>
+        <TextBox Name="TxtTeBetalen" HorizontalAlignment="Left" Height="23" Margin="175,226,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185" Grid.Column="1"/>
+        <Button Content="Controle Nummer" HorizontalAlignment="Left" Margin="430,101,0,0" VerticalAlignment="Top" Width="114" Click="Button_Click" Grid.Column="1"/>
+        <Button Content="Berekenen" HorizontalAlignment="Left" Margin="430,145,0,0" VerticalAlignment="Top" Width="114" Click="Button_Click_1" Grid.Column="1"/>
+        <Button Content="Wissen" HorizontalAlignment="Left" Margin="430,185,0,0" VerticalAlignment="Top" Width="114" Click="Button_Click_2" Grid.Column="1"/>
+        <Button Content="Sluiten" HorizontalAlignment="Left" Margin="430,228,0,0" VerticalAlignment="Top" Width="114" Click="Button_Click_3" Grid.Column="1"/>
+
+    </Grid>
+</Window>

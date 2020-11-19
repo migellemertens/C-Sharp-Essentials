@@ -1,0 +1,33 @@
+﻿<Window x:Class="Toepassing_10___Reiskost_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toepassing_10___Reiskost_2"
+        mc:Ignorable="d"
+        Title="Reiskost 2" Height="619" Width="573">
+    <Grid>
+        <Label Content="Bestemming:" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="38,47,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label Content="Basisvlucht:" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="38,88,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label Content="Vluchtklasse (1, 2 of 3):" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="38,129,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label Content="Basisprijs per dag:" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="38,170,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label Content="Aantal dagen:" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="38,211,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label Content="Aantal personen:" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="38,252,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label Content="Kortingspercentage:" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="38,293,0,0" VerticalAlignment="Top" Width="140"/>
+        <TextBox Name="TxtBestemming" HorizontalAlignment="Left" Height="23" Margin="183,51,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="TxtBasisvlucht" HorizontalAlignment="Left" Height="23" Margin="183,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="TxtVluchtklasse" HorizontalAlignment="Left" Height="23" Margin="183,129,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" GotFocus="TxtVluchtklasse_GotFocus" LostFocus="TxtVluchtklasse_LostFocus" />
+        <TextBox Name="TxtBasisprijs" HorizontalAlignment="Left" Height="23" Margin="183,174,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="TxtAantalDagen" HorizontalAlignment="Left" Height="23" Margin="183,214,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="TxtAantalPersonen" HorizontalAlignment="Left" Height="23" Margin="183,256,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="TxtKortingspercentage" HorizontalAlignment="Left" Height="23" Margin="183,296,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Name="TxtBlVluchtklasses" HorizontalAlignment="Left" Margin="370,51,0,0" TextWrapping="Wrap" Text="1 = Businessclass
+                   2 = Standaard lijnvlucht
+                   3 = Charter" VerticalAlignment="Top" Height="54" Width="147" Background="#FFF3F3F3"/>
+        <Button Name="BtnBerekenen" Content="Berekenen" HorizontalAlignment="Left" Margin="359,149,0,0" VerticalAlignment="Top" Width="120" Height="40" Click="BtnBerekenen_Click"/>
+        <Button Name="BtnWissen" Content="Wissen" HorizontalAlignment="Left" Margin="359,214,0,0" VerticalAlignment="Top" Width="120" Height="40" Click="BtnWissen_Click"/>
+        <Button Name="BtnAfsluiten" Content="Afsluiten" HorizontalAlignment="Left" Margin="359,277,0,0" VerticalAlignment="Top" Width="120" Height="40" Click="BtnAfsluiten_Click"/>
+        <TextBlock Name="TxtBlResultaat" HorizontalAlignment="Left" Margin="70,351,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="425" Height="185" Background="#FFF3F3F3"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\bin\Debug\Toepassing 09 - Cursusgeld.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\bin\Debug\Toepassing 09 - Cursusgeld.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\bin\Debug\Toepassing 09 - Cursusgeld.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\obj\Debug\Toepassing 09 - Cursusgeld.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\obj\Debug\Toepassing 09 - Cursusgeld_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\obj\Debug\Toepassing 09 - Cursusgeld_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\obj\Debug\Toepassing 09 - Cursusgeld.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\obj\Debug\Toepassing_09___Cursusgeld.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\obj\Debug\Toepassing 09 - Cursusgeld.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\obj\Debug\Toepassing 09 - Cursusgeld.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\obj\Debug\Toepassing 09 - Cursusgeld.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 09 - Cursusgeld\Toepassing 09 - Cursusgeld\obj\Debug\Toepassing 09 - Cursusgeld.pdb
