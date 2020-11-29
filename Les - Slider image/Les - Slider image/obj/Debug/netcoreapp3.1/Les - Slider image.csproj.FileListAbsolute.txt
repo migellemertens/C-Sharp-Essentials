@@ -1,0 +1,19 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\bin\Debug\netcoreapp3.1\Les - Slider image.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\bin\Debug\netcoreapp3.1\Les - Slider image.deps.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\bin\Debug\netcoreapp3.1\Les - Slider image.runtimeconfig.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\bin\Debug\netcoreapp3.1\Les - Slider image.runtimeconfig.dev.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\bin\Debug\netcoreapp3.1\Les - Slider image.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\bin\Debug\netcoreapp3.1\Les - Slider image.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\Les - Slider image.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\Les - Slider image_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\Les - Slider image_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\Les - Slider image.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\Les - Slider image.AssemblyInfoInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\Les - Slider image.AssemblyInfo.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\Les - Slider image.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\Les - Slider image.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\Les - Slider image.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Les - Slider image\obj\Debug\netcoreapp3.1\Les - Slider image.genruntimeconfig.cache

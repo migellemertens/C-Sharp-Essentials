@@ -1,0 +1,9 @@
+﻿<Application x:Class="Toepassing_23___Bevolkingsgroei.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Toepassing_23___Bevolkingsgroei"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

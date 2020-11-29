@@ -1,0 +1,16 @@
+﻿<Window x:Class="Les___Slider_image.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Les___Slider_image"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image Name="picBeeld" Source="C:\Users\migelle\Documents\Development\C# Essentials\Les - Slider image\Charizard.png" HorizontalAlignment="Left" Height="113" Margin="71,26,0,0"
+               VerticalAlignment="Top" Width="150" Stretch="Uniform" />
+        <Slider Name="SliderPic" HorizontalAlignment="Left" Margin="58,318,0,0" VerticalAlignment="Top" Width="520" Maximum="450" TickFrequency="5" ValueChanged="SliderPic_ValueChanged" TickPlacement="BottomRight" SmallChange="1"/>
+        <Label Name="LblValue" Content="" HorizontalAlignment="Left" Margin="614,314,0,0" VerticalAlignment="Top" Width="66"/>
+
+    </Grid>
+</Window>

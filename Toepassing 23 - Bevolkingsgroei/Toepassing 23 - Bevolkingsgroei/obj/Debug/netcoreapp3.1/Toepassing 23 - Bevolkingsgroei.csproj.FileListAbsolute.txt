@@ -1,0 +1,19 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\bin\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\bin\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.deps.json
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\bin\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.runtimeconfig.json
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\bin\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.runtimeconfig.dev.json
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\bin\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\bin\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.AssemblyInfoInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.AssemblyInfo.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 23 - Bevolkingsgroei\Toepassing 23 - Bevolkingsgroei\obj\Debug\netcoreapp3.1\Toepassing 23 - Bevolkingsgroei.genruntimeconfig.cache

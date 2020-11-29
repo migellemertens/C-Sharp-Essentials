@@ -1,0 +1,19 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\Les - Image Movement.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\Les - Image Movement_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\Les - Image Movement_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\bin\Debug\netcoreapp3.1\Les - Image Movement.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\bin\Debug\netcoreapp3.1\Les - Image Movement.deps.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\bin\Debug\netcoreapp3.1\Les - Image Movement.runtimeconfig.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\bin\Debug\netcoreapp3.1\Les - Image Movement.runtimeconfig.dev.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\bin\Debug\netcoreapp3.1\Les - Image Movement.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\bin\Debug\netcoreapp3.1\Les - Image Movement.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\Les - Image Movement.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\Les - Image Movement.AssemblyInfoInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\Les - Image Movement.AssemblyInfo.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\Les - Image Movement.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\Les - Image Movement.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\Les - Image Movement.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Image Movement\Les - Image Movement\obj\Debug\netcoreapp3.1\Les - Image Movement.genruntimeconfig.cache

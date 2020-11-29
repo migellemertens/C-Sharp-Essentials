@@ -1,0 +1,19 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\bin\Debug\netcoreapp3.1\Toepassing 25 - Interest.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\bin\Debug\netcoreapp3.1\Toepassing 25 - Interest.deps.json
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\bin\Debug\netcoreapp3.1\Toepassing 25 - Interest.runtimeconfig.json
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\bin\Debug\netcoreapp3.1\Toepassing 25 - Interest.runtimeconfig.dev.json
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\bin\Debug\netcoreapp3.1\Toepassing 25 - Interest.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\bin\Debug\netcoreapp3.1\Toepassing 25 - Interest.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\Toepassing 25 - Interest.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\Toepassing 25 - Interest_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\Toepassing 25 - Interest_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\Toepassing 25 - Interest.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\Toepassing 25 - Interest.AssemblyInfoInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\Toepassing 25 - Interest.AssemblyInfo.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\Toepassing 25 - Interest.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\Toepassing 25 - Interest.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\Toepassing 25 - Interest.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 25 - Interest\Toepassing 25 - Interest\obj\Debug\netcoreapp3.1\Toepassing 25 - Interest.genruntimeconfig.cache
