@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\bin\Debug\Les - Toon Gekozen Afbeelding.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\bin\Debug\Les - Toon Gekozen Afbeelding.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\bin\Debug\Les - Toon Gekozen Afbeelding.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\obj\Debug\Les - Toon Gekozen Afbeelding.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\obj\Debug\Les - Toon Gekozen Afbeelding_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\obj\Debug\Les - Toon Gekozen Afbeelding_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\obj\Debug\Les - Toon Gekozen Afbeelding.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\obj\Debug\Les___Toon_Gekozen_Afbeelding.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\obj\Debug\Les - Toon Gekozen Afbeelding.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\obj\Debug\Les - Toon Gekozen Afbeelding.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\obj\Debug\Les - Toon Gekozen Afbeelding.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Toon Gekozen Afbeelding\Les - Toon Gekozen Afbeelding\obj\Debug\Les - Toon Gekozen Afbeelding.pdb

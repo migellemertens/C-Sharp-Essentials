@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\obj\Debug\Toepassing 26 - Hexadecimaal Talstelsel.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\obj\Debug\Toepassing 26 - Hexadecimaal Talstelsel_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\obj\Debug\Toepassing 26 - Hexadecimaal Talstelsel_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\bin\Debug\Toepassing 26 - Hexadecimaal Talstelsel.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\bin\Debug\Toepassing 26 - Hexadecimaal Talstelsel.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\bin\Debug\Toepassing 26 - Hexadecimaal Talstelsel.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\obj\Debug\Toepassing 26 - Hexadecimaal Talstelsel.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\obj\Debug\Toepassing_26___Hexadecimaal_Talstelsel.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\obj\Debug\Toepassing 26 - Hexadecimaal Talstelsel.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\obj\Debug\Toepassing 26 - Hexadecimaal Talstelsel.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\obj\Debug\Toepassing 26 - Hexadecimaal Talstelsel.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 26 - Hexadecimaal Talstelsel\Toepassing 26 - Hexadecimaal Talstelsel\obj\Debug\Toepassing 26 - Hexadecimaal Talstelsel.pdb

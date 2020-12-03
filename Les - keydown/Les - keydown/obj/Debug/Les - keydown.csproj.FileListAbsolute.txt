@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\obj\Debug\Les - keydown.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\obj\Debug\Les - keydown_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\obj\Debug\Les - keydown_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\bin\Debug\Les - keydown.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\bin\Debug\Les - keydown.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\bin\Debug\Les - keydown.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\obj\Debug\Les - keydown.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\obj\Debug\Les___keydown.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\obj\Debug\Les - keydown.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\obj\Debug\Les - keydown.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\obj\Debug\Les - keydown.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - keydown\Les - keydown\obj\Debug\Les - keydown.pdb
