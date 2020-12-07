@@ -24,5 +24,21 @@ namespace Toepassing_15___Snelste_Atleet
         {
             InitializeComponent();
         }
+
+        private void TxtTijd_KeyDown(object sender, KeyEventArgs e)
+        {
+            BtnNieuw.IsDefault = true;
+        }
+
+        private void BtnNieuw_Click(object sender, RoutedEventArgs e)
+        {
+            String atleet = TxtNaam.Text;
+            int tijd = Convert.ToInt32(TxtTijd.Text);
+        }
+
+        private void BepaalSnelsteTijd(String atleet, int tijd)
+        {
+
+        }
     }
 }

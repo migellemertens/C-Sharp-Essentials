@@ -1,0 +1,19 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\bin\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\bin\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.deps.json
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\bin\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.runtimeconfig.json
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\bin\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.runtimeconfig.dev.json
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\bin\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\bin\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.AssemblyInfoInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.AssemblyInfo.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\Toepassing 15 - Snelste Atleet.genruntimeconfig.cache

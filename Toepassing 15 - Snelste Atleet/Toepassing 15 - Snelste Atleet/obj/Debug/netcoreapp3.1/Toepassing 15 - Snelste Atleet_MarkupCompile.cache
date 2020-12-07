@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\obj\Debug\netcoreapp3.1\
 Toepassing_15___Snelste_Atleet
 none
 false
-DEBUG;TRACE
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 15 - Snelste Atleet\Toepassing 15 - Snelste Atleet\App.xaml
 11151548125
 
-61434861427
-13-1505183044
+3-917710711
+1921654412462
 MainWindow.xaml;
 
-True
+False
 
