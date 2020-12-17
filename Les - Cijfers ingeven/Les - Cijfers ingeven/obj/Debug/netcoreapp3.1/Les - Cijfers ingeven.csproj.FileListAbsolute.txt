@@ -1,0 +1,13 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\obj\Debug\netcoreapp3.1\Les - Cijfers ingeven.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\obj\Debug\netcoreapp3.1\Les - Cijfers ingeven.AssemblyInfoInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\obj\Debug\netcoreapp3.1\Les - Cijfers ingeven.AssemblyInfo.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\obj\Debug\netcoreapp3.1\Les - Cijfers ingeven.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\bin\Debug\netcoreapp3.1\Les - Cijfers ingeven.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\bin\Debug\netcoreapp3.1\Les - Cijfers ingeven.deps.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\bin\Debug\netcoreapp3.1\Les - Cijfers ingeven.runtimeconfig.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\bin\Debug\netcoreapp3.1\Les - Cijfers ingeven.runtimeconfig.dev.json
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\bin\Debug\netcoreapp3.1\Les - Cijfers ingeven.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\bin\Debug\netcoreapp3.1\Les - Cijfers ingeven.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\obj\Debug\netcoreapp3.1\Les - Cijfers ingeven.dll
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\obj\Debug\netcoreapp3.1\Les - Cijfers ingeven.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Cijfers ingeven\Les - Cijfers ingeven\obj\Debug\netcoreapp3.1\Les - Cijfers ingeven.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\bin\Debug\Les - Listbox.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\bin\Debug\Les - Listbox.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\bin\Debug\Les - Listbox.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\obj\Debug\Les - Listbox.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\obj\Debug\Les - Listbox_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\obj\Debug\Les - Listbox_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\obj\Debug\Les - Listbox.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\obj\Debug\Les___Listbox.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\obj\Debug\Les - Listbox.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\obj\Debug\Les - Listbox.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\obj\Debug\Les - Listbox.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Listbox\Les - Listbox\obj\Debug\Les - Listbox.pdb

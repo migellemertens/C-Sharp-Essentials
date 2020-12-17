@@ -1,0 +1,23 @@
+﻿<Window x:Class="Les___Listbox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Les___Listbox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox Name="LstBox" HorizontalAlignment="Left" Height="130" Margin="283,10,0,0" VerticalAlignment="Top" Width="416"/>
+        <Label Content="Niveau" HorizontalAlignment="Left" Margin="82,44,0,0" VerticalAlignment="Top" Width="121" FontSize="36"/>
+        <Label Content="Opleiding" HorizontalAlignment="Left" Margin="37,207,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <ComboBox Name="CboOpleiding" HorizontalAlignment="Left" Margin="283,228,0,0" VerticalAlignment="Top" Width="416" Height="37">
+            <ComboBoxItem Content="Boekhouden"/>
+            <ComboBoxItem Content="Informatica"/>
+            <ComboBoxItem Content="Secretariaat-Talen"/>
+            <ComboBoxItem Content="Marketing"/>
+            <ComboBoxItem Content="Rechtspraktijk"/>
+        </ComboBox>
+        <TextBox Name="TxtResultaat" HorizontalAlignment="Left" Height="86" Margin="283,311,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="416" IsEnabled="False"/>
+        <Button Content="Toon opleiding" HorizontalAlignment="Left" Margin="47,330,0,0" VerticalAlignment="Top" Width="156" Height="50" FontSize="20" Click="Button_Click"/>
+    </Grid>
+</Window>

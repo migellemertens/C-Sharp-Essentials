@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\obj\Debug\Les - Sportprijs listbox en array.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\obj\Debug\Les - Sportprijs listbox en array_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\obj\Debug\Les - Sportprijs listbox en array_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\bin\Debug\Les - Sportprijs listbox en array.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\bin\Debug\Les - Sportprijs listbox en array.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\bin\Debug\Les - Sportprijs listbox en array.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\obj\Debug\Les - Sportprijs listbox en array.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\obj\Debug\Les___Sportprijs_listbox_en_array.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\obj\Debug\Les - Sportprijs listbox en array.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\obj\Debug\Les - Sportprijs listbox en array.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\obj\Debug\Les - Sportprijs listbox en array.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Sportprijs listbox en array\Les - Sportprijs listbox en array\obj\Debug\Les - Sportprijs listbox en array.pdb

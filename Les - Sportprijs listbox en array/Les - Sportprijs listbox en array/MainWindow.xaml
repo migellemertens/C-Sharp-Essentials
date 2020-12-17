@@ -1,0 +1,25 @@
+﻿<Window x:Class="Les___Sportprijs_listbox_en_array.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Les___Sportprijs_listbox_en_array"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="637.209" Width="1118.605">
+    <Grid>
+        <TextBox x:Name="txtResultaat" HorizontalAlignment="Left" Height="222" Margin="60,320,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="1004" FontFamily="Arial" FontSize="36" />
+        <Label  HorizontalAlignment="Left" Margin="60,63,0,0" VerticalAlignment="Top"
+            Content="Kies de locatie:" RenderTransformOrigin="1.077,1.048" Height="50" Width="183" FontSize="22" Background="Red" FontFamily="Arial"/>
+        <ListBox x:Name="lstLocatie" HorizontalAlignment="Left" Margin="302,63,0,0" VerticalAlignment="Top" Width="550" FontFamily="Arial" FontSize="18" Height="73" SelectionChanged="lstLocatie_SelectionChanged">
+            <ListBoxItem Content="Oostende"/>
+            <ListBoxItem Content="Brussel" />
+            <ListBoxItem Content="Dinant"/>
+            <ListBoxItem Content="Namen"/>
+            <ListBoxItem Content="Hasselt"/>
+            <ListBoxItem Content="Genk"/>
+        </ListBox>
+        <Label  HorizontalAlignment="Left" Margin="60,176,0,0" VerticalAlignment="Top"
+            Content="Kies de sporttak:" RenderTransformOrigin="1.077,1.048" Height="50" Width="183" FontSize="22" Background="Red" FontFamily="Arial"/>
+        <ListBox x:Name="lstSportTak" HorizontalAlignment="Left" Margin="300,176,0,0" VerticalAlignment="Top" Width="550" FontFamily="Arial" FontSize="18" Height="92" SelectionChanged="lstSportTak_SelectionChanged"/>
+    </Grid>
+</Window>

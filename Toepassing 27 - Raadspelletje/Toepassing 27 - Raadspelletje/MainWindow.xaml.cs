@@ -70,7 +70,6 @@ namespace Toepassing_27___Raadspelletje
                     }
                     else
                     {
-
                         geraden = true;
                         ImgCanvas.Source = imgJuist;
                         counter++;
