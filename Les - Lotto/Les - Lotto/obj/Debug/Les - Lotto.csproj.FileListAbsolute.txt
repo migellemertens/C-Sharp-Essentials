@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\bin\Debug\Les - Lotto.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\bin\Debug\Les - Lotto.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\bin\Debug\Les - Lotto.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\obj\Debug\Les - Lotto.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\obj\Debug\Les - Lotto_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\obj\Debug\Les - Lotto_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\obj\Debug\Les - Lotto.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\obj\Debug\Les___Lotto.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\obj\Debug\Les - Lotto.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\obj\Debug\Les - Lotto.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\obj\Debug\Les - Lotto.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Lotto\Les - Lotto\obj\Debug\Les - Lotto.pdb

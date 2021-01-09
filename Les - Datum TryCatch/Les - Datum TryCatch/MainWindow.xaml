@@ -1,0 +1,20 @@
+﻿<Window x:Class="Les___Datum_TryCatch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Les___Datum_TryCatch"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="hoofdGrid">
+        <Label x:Name="label1" Content="dd/mm/jjjj
+               :" HorizontalAlignment="Left" Margin="97,72,0,0" VerticalAlignment="Top" Width="198" RenderTransformOrigin="0.507,2.077" FontSize="36"/>
+        <TextBox x:Name="txtDag" HorizontalAlignment="Left" Height="46" Margin="316,84,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="57" FontSize="36"/>
+        <TextBox x:Name="txtMaand" HorizontalAlignment="Left" Height="44" Margin="404,84,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="59" FontSize="36" RenderTransformOrigin="0.762,0.217"/>
+        <TextBox x:Name="txtJaar" HorizontalAlignment="Left" Height="46" Margin="490,84,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="95" FontSize="36"/>
+        <Button x:Name="btnControleren" Content="Controleren" HorizontalAlignment="Left" Margin="378,220,0,0" VerticalAlignment="Top" Width="192"
+                FontSize="36" Click="btnControleren_Click"/>
+        <Label x:Name="label1_Copy" Content="/" HorizontalAlignment="Left" Margin="378,84,0,0" VerticalAlignment="Top" Width="26" RenderTransformOrigin="0.507,2.077" FontSize="36" Height="46"/>
+        <Label x:Name="label1_Copy1" Content="/" HorizontalAlignment="Left" Margin="463,82,0,0" VerticalAlignment="Top" Width="26" RenderTransformOrigin="0.507,2.077" FontSize="36" Height="46"/>
+    </Grid>
+</Window>

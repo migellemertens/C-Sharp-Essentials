@@ -1,0 +1,14 @@
+﻿<Window x:Class="Les___Afbeelding_met_TryCatch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Les___Afbeelding_met_TryCatch"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="956.996">
+    <Grid>
+        <Image x:Name="picAfbeelding" HorizontalAlignment="Left" Height="345" Margin="73,33,0,0" VerticalAlignment="Top" Width="499"/>
+        <Button x:Name="btnAfbeelding" Content="Afbeelding" HorizontalAlignment="Left" Margin="672,45,0,0" VerticalAlignment="Top" Width="143" Height="45" FontSize="22" Click="btnAfbeelding_Click"/>
+        <Button x:Name="btnAfbeeldingEnControle" Content="Afbeelding en controle" HorizontalAlignment="Left" Margin="672,113,0,0" VerticalAlignment="Top" Width="257" Height="52" FontSize="22" Click="btnAfbeeldingEnControle_Click"/>
+    </Grid>
+</Window>

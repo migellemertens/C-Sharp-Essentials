@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\bin\Debug\Les - Afbeelding met TryCatch.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\bin\Debug\Les - Afbeelding met TryCatch.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\bin\Debug\Les - Afbeelding met TryCatch.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\obj\Debug\Les - Afbeelding met TryCatch.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\obj\Debug\Les - Afbeelding met TryCatch_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\obj\Debug\Les - Afbeelding met TryCatch_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\obj\Debug\Les - Afbeelding met TryCatch.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\obj\Debug\Les___Afbeelding_met_TryCatch.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\obj\Debug\Les - Afbeelding met TryCatch.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\obj\Debug\Les - Afbeelding met TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\obj\Debug\Les - Afbeelding met TryCatch.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Les - Afbeelding met TryCatch\Les - Afbeelding met TryCatch\obj\Debug\Les - Afbeelding met TryCatch.pdb
