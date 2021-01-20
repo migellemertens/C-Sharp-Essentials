@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\bin\Debug\Toepassing 16 - Machtsverheffing.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\bin\Debug\Toepassing 16 - Machtsverheffing.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\bin\Debug\Toepassing 16 - Machtsverheffing.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\obj\Debug\Toepassing 16 - Machtsverheffing.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\obj\Debug\Toepassing 16 - Machtsverheffing_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\obj\Debug\Toepassing 16 - Machtsverheffing_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\obj\Debug\Toepassing 16 - Machtsverheffing.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\obj\Debug\Toepassing_16___Machtsverheffing.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\obj\Debug\Toepassing 16 - Machtsverheffing.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\obj\Debug\Toepassing 16 - Machtsverheffing.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\obj\Debug\Toepassing 16 - Machtsverheffing.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 16 - Machtsverheffing\Toepassing 16 - Machtsverheffing\obj\Debug\Toepassing 16 - Machtsverheffing.pdb
