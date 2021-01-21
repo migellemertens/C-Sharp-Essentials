@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\bin\Debug\Toepassing 17 - Faculteit.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\bin\Debug\Toepassing 17 - Faculteit.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\bin\Debug\Toepassing 17 - Faculteit.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\obj\Debug\Toepassing 17 - Faculteit.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\obj\Debug\Toepassing 17 - Faculteit_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\obj\Debug\Toepassing 17 - Faculteit_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\obj\Debug\Toepassing 17 - Faculteit.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\obj\Debug\Toepassing_17___Faculteit.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\obj\Debug\Toepassing 17 - Faculteit.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\obj\Debug\Toepassing 17 - Faculteit.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\obj\Debug\Toepassing 17 - Faculteit.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 17 - Faculteit\Toepassing 17 - Faculteit\obj\Debug\Toepassing 17 - Faculteit.pdb

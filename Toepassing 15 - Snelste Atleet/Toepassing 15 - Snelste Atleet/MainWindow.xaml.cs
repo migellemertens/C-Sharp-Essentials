@@ -20,6 +20,8 @@ namespace Toepassing_15___Snelste_Atleet
     /// </summary>
     public partial class MainWindow : Window
     {
+        String snelsteAtleet;
+        int snelsteTijd = 9999999;
         public MainWindow()
         {
             InitializeComponent();
@@ -27,19 +29,38 @@ namespace Toepassing_15___Snelste_Atleet
 
         private void BtnNieuw_Click(object sender, RoutedEventArgs e)
         {
+            
             String atleet = TxtNaam.Text;
             int tijd = Convert.ToInt32(TxtTijd.Text);
-            TblResultaat.Text = "test";
-        }
+            TxtNaam.Clear();
+            TxtTijd.Clear();
 
-        private void BepaalSnelsteTijd(String atleet, int tijd)
-        {
-
+            if (tijd < snelsteTijd)
+            {
+                snelsteAtleet = atleet;
+                snelsteTijd = tijd;
+            }
+            
         }
 
         private void TxtTijd_TextChanged(object sender, TextChangedEventArgs e)
         {
             BtnNieuw.IsDefault = true;
+        }
+
+        private void BtnSnelsteAtleet_Click(object sender, RoutedEventArgs e)
+        {
+            int seconden = snelsteTijd % 60;
+            int minuten = (snelsteTijd % 3600) / 60;
+            int uren = snelsteTijd / 3600;
+
+            TblResultaat.Text += $"De snelste atleet is {snelsteAtleet}\n" +
+                $"Totale aantal seconden {snelsteTijd}";
+            TblResultaat.Text += Environment.NewLine + Environment.NewLine;
+
+            TblResultaat.Text += $"Uren: {uren}\n" +
+                $"Minuten: {minuten}\n" +
+                $"Seconden: {seconden}";
         }
     }
 }

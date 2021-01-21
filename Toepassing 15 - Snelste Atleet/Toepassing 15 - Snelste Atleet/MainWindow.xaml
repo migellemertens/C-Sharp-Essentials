@@ -13,7 +13,7 @@
         <TextBox Name="TxtTijd" HorizontalAlignment="Left" Margin="159,59,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="TxtTijd_TextChanged"/>
         <TextBlock Name="TblResultaat" HorizontalAlignment="Left" Margin="10,110,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="200" Width="349" IsEnabled="False" Background="#FFDEDEDE"/>
         <Button Name="BtnNieuw" Content="Nieuw" HorizontalAlignment="Left" Margin="385,110,0,0" VerticalAlignment="Top" Height="40" Width="100" Click="BtnNieuw_Click"/>
-        <Button Name="BtnSnelsteAtleet" Content="Snelste atleet" HorizontalAlignment="Left" Margin="385,164,0,0" VerticalAlignment="Top" Height="40" Width="100"/>
+        <Button Name="BtnSnelsteAtleet" Content="Snelste atleet" HorizontalAlignment="Left" Margin="385,164,0,0" VerticalAlignment="Top" Height="40" Width="100" Click="BtnSnelsteAtleet_Click"/>
         <Button Name="BtnWissen" Content="Wissen" HorizontalAlignment="Left" Margin="385,217,0,0" VerticalAlignment="Top" Height="40" Width="100"/>
         <Button Name="BtnAfsluiten" Content="Afsluiten" HorizontalAlignment="Left" Margin="385,270,0,0" VerticalAlignment="Top" Height="40" Width="100"/>
 
