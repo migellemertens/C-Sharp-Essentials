@@ -10,7 +10,7 @@
         <Label Content="Naam atleet:" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="10,16,0,0" VerticalAlignment="Top" Width="133"/>
         <Label Content="Totaal aantal seconden:" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top"/>
         <TextBox Name="TxtNaam" HorizontalAlignment="Left" Margin="159,20,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
-        <TextBox Name="TxtTijd" HorizontalAlignment="Left" Margin="159,59,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" KeyDown="TxtTijd_KeyDown"/>
+        <TextBox Name="TxtTijd" HorizontalAlignment="Left" Margin="159,59,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="TxtTijd_TextChanged"/>
         <TextBlock Name="TblResultaat" HorizontalAlignment="Left" Margin="10,110,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="200" Width="349" IsEnabled="False" Background="#FFDEDEDE"/>
         <Button Name="BtnNieuw" Content="Nieuw" HorizontalAlignment="Left" Margin="385,110,0,0" VerticalAlignment="Top" Height="40" Width="100" Click="BtnNieuw_Click"/>
         <Button Name="BtnSnelsteAtleet" Content="Snelste atleet" HorizontalAlignment="Left" Margin="385,164,0,0" VerticalAlignment="Top" Height="40" Width="100"/>
