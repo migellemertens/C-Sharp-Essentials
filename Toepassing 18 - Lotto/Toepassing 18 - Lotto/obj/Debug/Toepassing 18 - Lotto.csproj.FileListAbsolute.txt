@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\bin\Debug\Toepassing 18 - Lotto.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\bin\Debug\Toepassing 18 - Lotto.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\bin\Debug\Toepassing 18 - Lotto.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\obj\Debug\Toepassing 18 - Lotto.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\obj\Debug\Toepassing 18 - Lotto_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\obj\Debug\Toepassing 18 - Lotto_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\obj\Debug\Toepassing 18 - Lotto.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\obj\Debug\Toepassing_18___Lotto.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\obj\Debug\Toepassing 18 - Lotto.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\obj\Debug\Toepassing 18 - Lotto.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\obj\Debug\Toepassing 18 - Lotto.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 18 - Lotto\Toepassing 18 - Lotto\obj\Debug\Toepassing 18 - Lotto.pdb

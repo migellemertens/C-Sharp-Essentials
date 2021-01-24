@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\bin\Debug\Toepassing 19 - Dubbelfeest.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\bin\Debug\Toepassing 19 - Dubbelfeest.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\bin\Debug\Toepassing 19 - Dubbelfeest.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\obj\Debug\Toepassing 19 - Dubbelfeest_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\obj\Debug\Toepassing 19 - Dubbelfeest_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\obj\Debug\Toepassing 19 - Dubbelfeest.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\obj\Debug\Toepassing_19___Dubbelfeest.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\obj\Debug\Toepassing 19 - Dubbelfeest.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\obj\Debug\Toepassing 19 - Dubbelfeest.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\obj\Debug\Toepassing 19 - Dubbelfeest.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\obj\Debug\Toepassing 19 - Dubbelfeest.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 19 - Dubbelfeest\Toepassing 19 - Dubbelfeest\obj\Debug\Toepassing 19 - Dubbelfeest.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toepassing 18 - Lotto", "Toepassing 18 - Lotto\Toepassing 18 - Lotto.csproj", "{6ACDC9C6-6DBC-4B8B-B0A7-7A0BA4B30AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACDC9C6-6DBC-4B8B-B0A7-7A0BA4B30AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACDC9C6-6DBC-4B8B-B0A7-7A0BA4B30AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACDC9C6-6DBC-4B8B-B0A7-7A0BA4B30AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACDC9C6-6DBC-4B8B-B0A7-7A0BA4B30AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5EF5134-8688-4810-870F-76D2A6120B2D}
+	EndGlobalSection
+EndGlobal
