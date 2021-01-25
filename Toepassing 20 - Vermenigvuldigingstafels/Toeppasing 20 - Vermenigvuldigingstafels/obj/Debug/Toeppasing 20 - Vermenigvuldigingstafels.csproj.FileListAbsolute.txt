@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\bin\Debug\Toeppasing 20 - Vermenigvuldigingstafels.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\bin\Debug\Toeppasing 20 - Vermenigvuldigingstafels.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\bin\Debug\Toeppasing 20 - Vermenigvuldigingstafels.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\obj\Debug\Toeppasing 20 - Vermenigvuldigingstafels.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\obj\Debug\Toeppasing 20 - Vermenigvuldigingstafels_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\obj\Debug\Toeppasing 20 - Vermenigvuldigingstafels_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\obj\Debug\Toeppasing 20 - Vermenigvuldigingstafels.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\obj\Debug\Toeppasing_20___Vermenigvuldigingstafels.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\obj\Debug\Toeppasing 20 - Vermenigvuldigingstafels.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\obj\Debug\Toeppasing 20 - Vermenigvuldigingstafels.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\obj\Debug\Toeppasing 20 - Vermenigvuldigingstafels.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toeppasing 20 - Vermenigvuldigingstafels\Toeppasing 20 - Vermenigvuldigingstafels\obj\Debug\Toeppasing 20 - Vermenigvuldigingstafels.pdb
