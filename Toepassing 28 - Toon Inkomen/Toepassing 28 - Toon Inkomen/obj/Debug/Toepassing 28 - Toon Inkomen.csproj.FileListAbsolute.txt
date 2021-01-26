@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\bin\Debug\Toepassing 28 - Toon Inkomen.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\bin\Debug\Toepassing 28 - Toon Inkomen.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\bin\Debug\Toepassing 28 - Toon Inkomen.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\obj\Debug\Toepassing 28 - Toon Inkomen.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\obj\Debug\Toepassing 28 - Toon Inkomen_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\obj\Debug\Toepassing 28 - Toon Inkomen_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\obj\Debug\Toepassing 28 - Toon Inkomen.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\obj\Debug\Toepassing_28___Toon_Inkomen.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\obj\Debug\Toepassing 28 - Toon Inkomen.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\obj\Debug\Toepassing 28 - Toon Inkomen.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\obj\Debug\Toepassing 28 - Toon Inkomen.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Toepassing 28 - Toon Inkomen\Toepassing 28 - Toon Inkomen\obj\Debug\Toepassing 28 - Toon Inkomen.pdb

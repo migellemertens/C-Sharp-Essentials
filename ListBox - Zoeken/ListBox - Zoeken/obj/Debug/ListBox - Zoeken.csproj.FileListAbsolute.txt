@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\bin\Debug\ListBox - Zoeken.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\bin\Debug\ListBox - Zoeken.exe
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\bin\Debug\ListBox - Zoeken.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\obj\Debug\ListBox - Zoeken.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\obj\Debug\ListBox - Zoeken_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\obj\Debug\ListBox - Zoeken_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\obj\Debug\ListBox - Zoeken.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\obj\Debug\ListBox___Zoeken.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\obj\Debug\ListBox - Zoeken.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\obj\Debug\ListBox - Zoeken.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\obj\Debug\ListBox - Zoeken.exe
+C:\Users\migelle\Documents\Development\C# Essentials\ListBox - Zoeken\ListBox - Zoeken\obj\Debug\ListBox - Zoeken.pdb

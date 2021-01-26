@@ -24,5 +24,17 @@ namespace Toepassing_28___Toon_Inkomen
         {
             InitializeComponent();
         }
+
+        private void BtnToonInkomen_Click(object sender, RoutedEventArgs e)
+        {
+            int jaarsalaris = Convert.ToInt32(TxtJaarsalaris.Text);
+            int aantalJaren = Convert.ToInt32(TxtAantalJaren.Text);
+            TotaalInkomen(jaarsalaris, aantalJaren);
+        }
+
+        private void TotaalInkomen(int jaarsalaris, int aantalJaren)
+        {
+            TxtTotaalInkomen.Text = $"{jaarsalaris * aantalJaren:C}";
+        }
     }
 }

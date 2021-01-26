@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Toepassing_28___Toon_Inkomen"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="218.182" Width="442.424">
     <Grid>
-        
+        <Label Content="Jaarsalaris" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="30,19,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.128,0.26" Width="91"/>
+        <Label Content="Aantal Jaren" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="30,70,0,0" VerticalAlignment="Top" Width="91"/>
+        <Label Content="Totaal Inkomen" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="30,127,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtJaarsalaris" HorizontalAlignment="Left" Height="23" Margin="126,23,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtAantalJaren" HorizontalAlignment="Left" Height="23" Margin="126,74,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtTotaalInkomen" HorizontalAlignment="Left" Height="23" Margin="126,131,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" IsEnabled="False" Background="#FFECECEC"/>
+        <Button x:Name="BtnToonInkomen" Content="Toon Inkomen" HorizontalAlignment="Left" Margin="271,117,0,0" VerticalAlignment="Top" Width="118" Height="37" Click="BtnToonInkomen_Click"/>
+
     </Grid>
 </Window>

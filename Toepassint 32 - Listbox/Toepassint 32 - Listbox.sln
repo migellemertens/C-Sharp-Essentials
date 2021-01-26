@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toepassint 32 - Listbox", "Toepassint 32 - Listbox\Toepassint 32 - Listbox.csproj", "{36D44ACC-B34C-4C4E-809A-6AAA3C39579B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36D44ACC-B34C-4C4E-809A-6AAA3C39579B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D44ACC-B34C-4C4E-809A-6AAA3C39579B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D44ACC-B34C-4C4E-809A-6AAA3C39579B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D44ACC-B34C-4C4E-809A-6AAA3C39579B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41EB41CD-7104-4460-908B-48BE49C0D150}
+	EndGlobalSection
+EndGlobal
