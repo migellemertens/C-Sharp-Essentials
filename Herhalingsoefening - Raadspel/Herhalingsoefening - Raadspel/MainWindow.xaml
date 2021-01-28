@@ -1,0 +1,19 @@
+﻿<Window x:Class="Herhalingsoefening___Raadspel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Herhalingsoefening___Raadspel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="562" Width="1004">
+    <Grid>
+        <Label x:Name="lblDatumTijd" Content="datum en tijd" HorizontalAlignment="Left" Margin="392,46,0,0" VerticalAlignment="Top" Width="5009" FontSize="20"/>
+        <Label x:Name="label1" Content="Geef een getal tussen 1 en 100:" HorizontalAlignment="Left" Margin="116,188,0,0" VerticalAlignment="Top" Width="301" RenderTransformOrigin="0.507,2.077" FontSize="20"/>
+        <TextBox x:Name="txtGetal" HorizontalAlignment="Left" Height="30" Margin="454,195,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="104" FontSize="20"/>
+        <TextBox x:Name="txtMelding" HorizontalAlignment="Left" Height="30" Margin="135,344,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="436" FontSize="20" />
+        <TextBox x:Name="txtAantalBeurten" HorizontalAlignment="Left" Height="30" Margin="131,413,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="436" FontSize="20"/>
+        <Button x:Name="btnEvalueer" Content="Evalueer" HorizontalAlignment="Left" Margin="801,316,0,0" VerticalAlignment="Top" Width="102" FontSize="20" Click="btnEvalueer_Click"/>
+        <Button x:Name="btnNieuw" Content="Nieuw" HorizontalAlignment="Left" Margin="801,363,0,0" VerticalAlignment="Top" Width="102" FontSize="20" Click="btnNieuw_Click"/>
+        <Button x:Name="btnSluiten" Content="Afsluiten" HorizontalAlignment="Left" Margin="801,419,0,0" VerticalAlignment="Top" Width="102" FontSize="20" Click="btnSluiten_Click"/>
+    </Grid>
+</Window>

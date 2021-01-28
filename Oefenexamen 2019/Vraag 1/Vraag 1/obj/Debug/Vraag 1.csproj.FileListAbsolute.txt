@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\bin\Debug\Vraag 1.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\bin\Debug\Vraag 1.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\bin\Debug\Vraag 1.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\obj\Debug\Vraag 1.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\obj\Debug\Vraag 1_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\obj\Debug\Vraag 1_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\obj\Debug\Vraag 1.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\obj\Debug\Vraag_1.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\obj\Debug\Vraag 1.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\obj\Debug\Vraag 1.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\obj\Debug\Vraag 1.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Oefenexamen 2019\Vraag 1\Vraag 1\obj\Debug\Vraag 1.pdb

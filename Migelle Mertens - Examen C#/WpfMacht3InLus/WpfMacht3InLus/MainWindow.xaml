@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfMacht3InLus.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfMacht3InLus"
+        mc:Ignorable="d"
+        Title="WpfMacht3InLus" Height="450" Width="428.501">
+    <Grid Margin="0,0,2,0">
+        <Button x:Name="BtnBerekenen" Content="Start berekeningen tot 2 miljard" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="391" Height="40" FontWeight="Bold" FontFamily="Courier New" FontSize="16" Click="BtnBerekenen_Click"/>
+        <TextBox x:Name="TxtResultaat" HorizontalAlignment="Left" Height="308" Margin="10,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="391" VerticalScrollBarVisibility="Auto" FontFamily="Courier New"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,27 @@
+﻿<Window x:Class="Herhalingsoefening___Telefoonkost.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Herhalingsoefening___Telefoonkost"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="604" Width="964">
+    <Grid >
+        <Label x:Name="label1" Content="Beginuur:" HorizontalAlignment="Left" Margin="75,89,0,0" VerticalAlignment="Top" Width="209" RenderTransformOrigin="0.507,2.077" FontSize="20"/>
+        <Label x:Name="label2" Content="Beginminuut:" HorizontalAlignment="Left" Margin="75,131,0,0" VerticalAlignment="Top" Width="209" FontSize="20"/>
+        <Label x:Name="label3" Content="Einduur:" HorizontalAlignment="Left" Margin="75,174,0,0" VerticalAlignment="Top" Width="209" FontSize="20"/>
+        <Label x:Name="label4" Content="Eindminuut:" HorizontalAlignment="Left" Margin="75,214,0,0" VerticalAlignment="Top" Width="235" FontSize="20"/>
+        <Label x:Name="label5" Content="Soort gesprek:" HorizontalAlignment="Left" Margin="75,265,0,0" VerticalAlignment="Top" Width="235" FontSize="20"/>
+        <TextBox x:Name="txtBeginUur" HorizontalAlignment="Left" Height="30" Margin="332,93,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="54" FontSize="20"/>
+        <TextBox x:Name="txtBeginMinuut" HorizontalAlignment="Left" Height="30" Margin="332,134,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="54" FontSize="20"/>
+        <TextBox x:Name="txtEindUur" HorizontalAlignment="Left" Height="30" Margin="332,178,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="54" FontSize="20" />
+        <TextBox x:Name="txtEindMinuut" HorizontalAlignment="Left" Height="30" Margin="332,218,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="54" FontSize="20" IsEnabled="True"/>
+        <TextBox x:Name="txtSoortGesprek" HorizontalAlignment="Left" Height="30" Margin="332,269,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="54" FontSize="20" IsEnabled="True"/>
+        <TextBox x:Name="txtResultaat" HorizontalAlignment="Left" Height="178" Margin="75,354,0,0" TextWrapping="Wrap" Text="                  " VerticalAlignment="Top" Width="559" FontSize="20"/>
+        <Button x:Name="btnBereken" Content="Berekenen" Margin="696,248,46,0" VerticalAlignment="Top" FontSize="24" Click="btnBereken_Click"/>
+        <Button x:Name="btnWissen" Content="Wissen" Margin="696,310,46,0" VerticalAlignment="Top" FontSize="24" Click="btnWissen_Click"/>
+        <Button x:Name="btnAfsluiten" Content="Afsluiten" Margin="696,364,46,0" VerticalAlignment="Top" FontSize="24" Click="btnAfsluiten_Click"/>
+        <Label x:Name="label" Content="Berekening kost van een telefoongesprek." Margin="240,26,0,0" VerticalAlignment="Top" Background="#FFDE2FBE" Height="44" Width="465" FontSize="24" HorizontalAlignment="Left"/>
+        <Label x:Name="label6" Content="Z=zonaal, N=nationaal, I=internationaal, G=gsm" HorizontalAlignment="Left" Margin="332,310,0,0" VerticalAlignment="Top" Width="326" Height="30" FontSize="14"/>
+    </Grid>
+</Window>

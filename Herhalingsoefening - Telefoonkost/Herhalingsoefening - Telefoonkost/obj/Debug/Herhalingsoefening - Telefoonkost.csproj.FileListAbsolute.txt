@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\bin\Debug\Herhalingsoefening - Telefoonkost.exe.config
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\bin\Debug\Herhalingsoefening - Telefoonkost.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\bin\Debug\Herhalingsoefening - Telefoonkost.pdb
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\obj\Debug\Herhalingsoefening - Telefoonkost.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\obj\Debug\Herhalingsoefening - Telefoonkost_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\obj\Debug\Herhalingsoefening - Telefoonkost_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\obj\Debug\Herhalingsoefening - Telefoonkost.g.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\obj\Debug\Herhalingsoefening___Telefoonkost.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\obj\Debug\Herhalingsoefening - Telefoonkost.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\obj\Debug\Herhalingsoefening - Telefoonkost.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\obj\Debug\Herhalingsoefening - Telefoonkost.exe
+C:\Users\migelle\Documents\Development\C# Essentials\Herhalingsoefening - Telefoonkost\Herhalingsoefening - Telefoonkost\obj\Debug\Herhalingsoefening - Telefoonkost.pdb

@@ -1,0 +1,30 @@
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\bin\Debug\WpfMacht3InLus.exe.config
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\bin\Debug\WpfMacht3InLus.exe
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\bin\Debug\WpfMacht3InLus.pdb
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.csprojAssemblyReference.cache
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\App.g.cs
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus_MarkupCompile.cache
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus_MarkupCompile.lref
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\MainWindow.baml
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.g.resources
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.Properties.Resources.resources
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.csproj.GenerateResource.cache
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.exe
+C:\Users\migelle\Desktop\Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.pdb
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\bin\Debug\WpfMacht3InLus.exe.config
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\bin\Debug\WpfMacht3InLus.exe
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\bin\Debug\WpfMacht3InLus.pdb
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.csprojAssemblyReference.cache
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\App.g.cs
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus_MarkupCompile.cache
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus_MarkupCompile.lref
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\MainWindow.baml
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.g.resources
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.Properties.Resources.resources
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.csproj.GenerateResource.cache
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.exe
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMacht3InLus\WpfMacht3InLus\obj\Debug\WpfMacht3InLus.pdb

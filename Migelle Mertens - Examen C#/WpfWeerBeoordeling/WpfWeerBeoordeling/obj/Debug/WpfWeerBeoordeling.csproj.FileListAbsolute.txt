@@ -1,0 +1,30 @@
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\bin\Debug\WpfWeerBeoordeling.exe.config
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\bin\Debug\WpfWeerBeoordeling.exe
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\bin\Debug\WpfWeerBeoordeling.pdb
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.csprojAssemblyReference.cache
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\App.g.cs
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling_MarkupCompile.cache
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling_MarkupCompile.lref
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\MainWindow.baml
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.g.resources
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.Properties.Resources.resources
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.csproj.GenerateResource.cache
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.exe
+C:\Users\migelle\Desktop\Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.pdb
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\bin\Debug\WpfWeerBeoordeling.exe.config
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\bin\Debug\WpfWeerBeoordeling.exe
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\bin\Debug\WpfWeerBeoordeling.pdb
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.csprojAssemblyReference.cache
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\App.g.cs
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling_MarkupCompile.cache
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling_MarkupCompile.lref
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\MainWindow.baml
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.g.resources
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.Properties.Resources.resources
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.csproj.GenerateResource.cache
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.exe
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfWeerBeoordeling\WpfWeerBeoordeling\obj\Debug\WpfWeerBeoordeling.pdb

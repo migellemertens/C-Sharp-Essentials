@@ -1,0 +1,30 @@
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.csprojAssemblyReference.cache
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\App.g.cs
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs_MarkupCompile.cache
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs_MarkupCompile.lref
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\bin\Debug\WpfMassagePrijs.exe.config
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\bin\Debug\WpfMassagePrijs.exe
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\bin\Debug\WpfMassagePrijs.pdb
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\MainWindow.baml
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.g.resources
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.Properties.Resources.resources
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.csproj.GenerateResource.cache
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.exe
+C:\Users\migelle\Desktop\Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.pdb
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\bin\Debug\WpfMassagePrijs.exe.config
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\bin\Debug\WpfMassagePrijs.exe
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\bin\Debug\WpfMassagePrijs.pdb
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.csprojAssemblyReference.cache
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\App.g.cs
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs_MarkupCompile.cache
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs_MarkupCompile.lref
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\MainWindow.baml
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.g.resources
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.Properties.Resources.resources
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.csproj.GenerateResource.cache
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.exe
+C:\Users\migelle\Desktop\Migelle Mertens - Examen C#\WpfMassagePrijs\WpfMassagePrijs\obj\Debug\WpfMassagePrijs.pdb

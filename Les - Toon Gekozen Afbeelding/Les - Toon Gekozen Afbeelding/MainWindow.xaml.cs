@@ -31,27 +31,7 @@ namespace Les___Toon_Gekozen_Afbeelding
             int afbeeldingNumeriek;
             bool ingaveGoed = false;
 
-            while(ingaveGoed == false)
-            {
-                afbeelding = Microsoft.VisualBasic.Interaction.InputBox("Geef nummer van afbeelding");
-
-                if(Microsoft.VisualBasic.Information.IsNumeric(afbeelding) == false)
-                {
-                    MessageBox.Show("nummer moet numeriek zijn");
-                }
-                else
-                {
-                    afbeeldingNumeriek = Convert.ToInt32(afbeelding);
-                    if(afbeeldingNumeriek < 0 || afbeeldingNumeriek > 39)
-                    {
-                        MessageBox.Show("nummer moet tussen 1 en 40 liggen");
-                    }
-                    else
-                    {
-                        ingaveGoed = true;
-                    }
-                }
-            }
+           
 
             string locatieEnBestandsnaam = @"C:\Users\migelle\Documents\Development\C# Essentials\img\beeld" + afbeelding + ".jpg";
 
